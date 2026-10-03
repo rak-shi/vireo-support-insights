@@ -16,6 +16,14 @@ This project transforms customer support ticket data into actionable insights th
 - **Support Cost Analysis:** Compare channel-specific contact costs with the blended reference cost.
 - **Data Quality Checks:** Inspect duplicate ticket IDs, missing fields, and other data quality issues.
 
+## Live Demo
+
+Explore the deployed dashboard here:
+
+**[Vireo Audio Support Insights Dashboard](https://rak-shi-vireo-support-insights-app-mbszfw.streamlit.app/)**
+
+The dashboard provides interactive weekly support analytics, agent workload metrics, repeat-contact investigation, and data quality reporting.
+
 ## Technology Stack
 
 - Python
