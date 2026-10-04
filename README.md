@@ -15,31 +15,31 @@ The dashboard transforms support-ticket data into actionable insights while pres
 
 A high-level view of weekly ticket volume, resolved or closed tickets, SLA breach rate, and estimated support costs.
 
-![Weekly Support Overview](assets/dashboard-overview.png)
+![Weekly Support Overview](assets/dashboard_home.png)
 
 ### 2. Weekly Support Digest
 
 Visualizes weekly ticket volume across support channels and assigned teams to help identify workload patterns.
 
-![Weekly Support Digest](assets/weekly-digest.png)
+![Weekly Support Digest](assets/weekly_digest.png)
 
 ### 3. Agent Leaderboard
 
 Displays weekly agent workload, tickets closed, SLA breaches, and response-time metrics. Tier 2 and warranty work should not be ranked by weekly closure volume alone.
 
-![Agent Leaderboard](assets/agent-leaderboard.png)
+![Agent Leaderboard](assets/agent_leaderboard.png)
 
 ### 4. Repeat Contact Investigation
 
 Highlights potential repeat contacts based on customer, product SKU, category, and the 30-day window after a previous ticket's resolution. These cases are candidates for human review, not confirmed repeat issues.
 
-![Repeat Contact Investigation](assets/repeat-contacts.png)
+![Repeat Contact Investigation](assets/repeat_contacts.png)
 
 ### 5. Data Quality and Assumptions
 
 Summarizes source rows, distinct ticket IDs, repeated ticket-ID groups, and key data-quality considerations.
 
-![Data Quality and Assumptions](assets/data-quality.png)
+![Data Quality and Assumptions](assets/data_quality.png)
 
 ## ✨ Key Features
 
